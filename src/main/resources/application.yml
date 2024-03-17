@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/blog?serverTimezone=Asia/Seoul
+    username: ppt
+    password: ppt1234
+    
+#   spring.datasource.driver 이런 걸 한번에 쓴 거!
